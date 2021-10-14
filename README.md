@@ -1,3 +1,3 @@
 ### Hi! 👋
 
-I'm a software development student with an emphasis on web development (HTML, CSS, JavaScript and WordPress).
+I'm an information technology student at Metropolia University of Applied Sciences.
